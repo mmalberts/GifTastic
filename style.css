@@ -1,0 +1,17 @@
+body {
+	padding-top: 20px;
+}
+
+button {
+	margin-left: 5px;
+}
+
+#gif-box {
+	margin-left: 10px;
+	float: left;
+	/*clear: left;*/
+}
+
+p {
+	font-weight: bold;
+}
